@@ -4,9 +4,7 @@ title: Hello World...
 description: "...from a new Notes from a Newbie"
 modified: 2016-02-18
 tags: [personal]
-image:
-  feature: silver-bordered-fritillary-bogitw.jpg
-  credit: bogitw
+
 
 ---
 
