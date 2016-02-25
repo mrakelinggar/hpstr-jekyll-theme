@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Instalasi OpenCV di Linux Ubuntu
-description: "...from a new Notes from a Newbie"
+
 modified: 2016-02-25
 tags: [opencv, linux, c++]
 image:
-  feature: butterfly-victoriya.jpg
-  credit: victoriya
+  feature: butterfly-victoriya_.jpg
+  credit: victoriya_
 
 
 ---
