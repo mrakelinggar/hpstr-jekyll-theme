@@ -5,10 +5,8 @@ title: Instalasi OpenCV di Linux Ubuntu
 modified: 2016-02-25
 tags: [opencv, linux, c++]
 image:
-  feature: butterfly-victoriya_.jpg
-  credit: victoriya_
-
-
+  feature: silver-bordered-fritillary-bogitw.jpg
+  credit: bogitw
 ---
 Halo semuanya, kali ini saya ingin berbagi cara bagaimana kita bisa menginstall OpenCV 2.4.9 di Linux.
 
