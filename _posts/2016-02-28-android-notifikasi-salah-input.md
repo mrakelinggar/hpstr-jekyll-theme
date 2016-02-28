@@ -5,8 +5,8 @@ modified: 2016-02-18
 tags: [Android, Java]
 
 image:
-  feature: write-a-book-DariuszSankowski.png
-  credit: DariuszSankowski
+  feature: programming-simplu27.png
+  credit: simplu27
 
 ---
 
