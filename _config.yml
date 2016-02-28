@@ -11,7 +11,7 @@ url: http://mrakelinggar.github.io
 owner:
   name:           M. Rake Linggar Anggoro
   avatar:         image10.png
-  bio:            "A data science and software engineer enthusiast. An Computer Science, IPB Alumni. Struggling to finish his master thesis. "
+  bio:            "A data science and software engineer enthusiast. A Computer Science, IPB Alumni. Struggling to finish his master thesis. "
   email:          rake.linggar@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: https://twitter.com/mrakelinggar
@@ -52,6 +52,8 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
+
+excerpt_separator: "<!--excerpt-->"
 
 kramdown:
   auto_ids: true

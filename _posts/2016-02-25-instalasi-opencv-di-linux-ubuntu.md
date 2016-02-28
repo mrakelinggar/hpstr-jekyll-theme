@@ -10,9 +10,9 @@ image:
 ---
 Halo semuanya, kali ini saya ingin berbagi cara bagaimana kita bisa menginstall OpenCV 2.4.9 di Linux.
 
+<!--excerpt-->
 
 Setelah mengotak-ngatik dan mengikuti beberapa tutorial tentang cara menginstall OpenCV 2.4.9 dari situs resminya, gagal, install ulang OS (tidak usah saya jelasin kenapa bisa sampai install ulang), akhirnya saya bisa juga menggunakan OpenCV 2.4.9 di Linux berbasis Ubuntu.
-
 
 
 Jika kalian menggunakan Ubuntu pada versi-versi sebelumnya, kalian bisa mencoba menggunakan tutorial ini untuk menginstall OpenCV dan dependency-dependency-nya. Akan tetapi, setelah baca [tutorial oleh Dan Nguyen](http://danwin.com/2014/12/compile-opencv-2-4-10-ubuntu-14-04-14-10/), ternyata ada masalah antara OpenCV dengan ffmpeg. Setelah mengikuti tutorialnya, OpenCV sudah bisa digunakan.
