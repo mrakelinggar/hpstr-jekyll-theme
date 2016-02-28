@@ -5,7 +5,7 @@ modified: 2016-02-18
 tags: [Android, Java]
 
 image:
-  feature: programming-simplu27.png
+  feature: programming-simplu27.jpg
   credit: simplu27
 
 ---
