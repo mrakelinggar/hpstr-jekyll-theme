@@ -27,10 +27,6 @@ Pertanyaan yang mungkin muncul di benak mahasiswa Ilkom ketika ada orang yang me
 
 *Basically*, menurut saya ada tiga alasan utama mengapa seorang anak ilkom harus menulis, dan tidak hanya sekali dua kali, tapi secara terus-terusan.
 
-
-<!--excerpt-->
-
-
 ##1. Menjaga kemampuan menulis agar tetap prima
 
 Ini alasan yang sangat dasar, tapi tidak bisa diabaikan. Ya iyalah, agar kita tetap handal dalam menulis, ya kita juga harus terus menulis. Seorang pemain basket NBA yang profesional pastinya juga sering latihan, bahkan yang sangat dasar pun seperti dribble.
