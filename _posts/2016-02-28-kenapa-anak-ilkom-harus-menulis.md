@@ -27,7 +27,11 @@ Pertanyaan yang mungkin muncul di benak mahasiswa Ilkom ketika ada orang yang me
 
 *Basically*, menurut saya ada tiga alasan utama mengapa seorang anak ilkom harus menulis, dan tidak hanya sekali dua kali, tapi secara terus-terusan.
 
-##1. Menjaga kemampuan menulis agar tetap prima
+
+<!--excerpt-->
+
+
+<h2>1. Menjaga kemampuan menulis agar tetap prima</h2>
 
 Ini alasan yang sangat dasar, tapi tidak bisa diabaikan. Ya iyalah, agar kita tetap handal dalam menulis, ya kita juga harus terus menulis. Seorang pemain basket NBA yang profesional pastinya juga sering latihan, bahkan yang sangat dasar pun seperti dribble.
 
@@ -37,7 +41,7 @@ Iya, semua orang sudah bisa nulis. Saya juga sudah membaca beberapa tulisan, bai
 
 Banyak orang sukses menuliskan sesuatu yang ingin mereka tulis, entah itu curhatan isi mereka, tutorial ngoding, atau riset tesis.
 
-###Tapi tidak semua orang bisa meyakinkan para pembaca untuk terus membaca tulisan mereka atau membuat mereka penasaran dan tertarik dengan tulisan mereka.
+<h3?Tapi tidak semua orang bisa meyakinkan para pembaca untuk terus membaca tulisan mereka atau membuat mereka penasaran dan tertarik dengan tulisan mereka.</h3>
 
 <figure>
 	<img src="/images/posts/101-inspiring-quotes-about-communication-46-638.jpg" alt="">
@@ -45,7 +49,7 @@ Banyak orang sukses menuliskan sesuatu yang ingin mereka tulis, entah itu curhat
 
 Analoginya adalah kalau kalian menggambar suatu lukisan, kalian mungkin bisa menggambar suatu bangunan, bisa memberikan warna-warna yang cantik. Tapi pertanyaannya adalah... **Apakah lukisan tersebut 'worth it' untuk dilihat?**
 
-##2. Meningkatkan kemampuan analisis dan kreativitas
+<h2>2. Meningkatkan kemampuan analisis dan kreativitas</h2>
 
 Menulis secara terus-menerus akan meningkatkan kemampuan kemampuan analisis dan juga kreativitas. Mengapa?
 
@@ -53,7 +57,7 @@ Dengan menulis Anda akan dipaksa untuk berpikir, "Bagaimana ya alur ceritanya bi
 
 Dan semua orang tahu, analisis dan kreativtias adalah sesuatu yang wajib dimiliki oleh seseorang di bidang Ilmu Komputer.
 
-##3. Menulis merupakan salah satu *skill* dasar jika ingin mendapatkan pekerjaan yang bagus
+<h2>3. Menulis merupakan salah satu *skill* dasar jika ingin mendapatkan pekerjaan yang bagus</h2>
 
 >"Ngapain harus prima dalam menulis? Gue kan engga mau jadi penulis"
 
@@ -69,7 +73,7 @@ Dan ini tidak hanya berlaku kalau kalian kerja di perusahaan. Kalau kalian ingin
 
 Secara ringkas, alasan mengapa seorang mahasiswa Ilkom harus membiasakan menulis adalah
 
-#Menjadi *communicator* yang lebih baik
+<h1>Menjadi *communicator* yang lebih baik</h1>
 
 Saya yakin kalian semua tahu dan setuju kalau skill komunikasi itu sangat penting dan sangat dibutuhkan, dimanapun kalian berada. Dan percaya kepada saya ketika saya katakan ini, kebiasaan menulis adalah salah satu *practice* yang sangat membantu.
 
