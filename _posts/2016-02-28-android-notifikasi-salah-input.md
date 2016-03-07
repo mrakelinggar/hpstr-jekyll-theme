@@ -8,6 +8,7 @@ image:
   feature: programming-simplu27.jpg
   credit: simplu27
 
+comments: yes
 ---
 
 Banyak aplikasi Android yang menggunakan View EditText untuk menerima input dari pengguna.

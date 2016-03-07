@@ -9,6 +9,7 @@ image:
   feature: write-a-book-DariuszSankowski.png
   credit: DariuszSankowski
 
+comments: yes
 ---
 
 Salah satu aktivitas yang membawa *impact* yang luar biasa bagi saya adalah menulis.
