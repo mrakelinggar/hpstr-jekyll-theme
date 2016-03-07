@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mengembalikan Lebih Dari Satu Nilai di Python
+description: "...from a new Notes from a Newbie"
 modified: 2016-03-08
 tags: [Python]
 
