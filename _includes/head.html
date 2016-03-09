@@ -1,7 +1,19 @@
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+{% if page.description %}
+<meta name="description" content="{{ page.description }}" />
+{% else %}
+<meta name="description" content="Notes from a Newbie is my (M. Rake Linggar Anggoro) blog containing several notes sharing contents from several topics, including personal experience, programming, data analytics, and more." />
+{% endif %}
+{% if page.tags %}
+<meta name="keywords" content="{{ page.tags | join: ', ' }}" />
+{% else %}
+<meta name="keywords" content="data analytics, data science, machine learning, blog, experience, programming, linux, python, c++, R" />
+{% endif %}
+
+<!--
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}-->
 
 {% if site.owner.twitter %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
