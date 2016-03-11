@@ -55,8 +55,6 @@ Hasil dari program di atas adalah:
 [1] "Maximum: 10.000000"
 [1] "Minimum: 1.000000"
 
-[Finished in 0.132s]
-
 {% endhighlight %}
 
 Hal yang mungkin perlu diketahui di sini adalah...
