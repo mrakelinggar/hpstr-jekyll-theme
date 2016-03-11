@@ -57,11 +57,7 @@ Hasil dari program di atas adalah:
 
 {% endhighlight %}
 
-Hal yang mungkin perlu diketahui di sini adalah...
-
-Fungsi dari **Numpy di Python** menghitung standar deviasi **populasi** (lihat [dokumentasinya](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.std.html))
-
-Fungsi bawaan **R** menghitung standar deviasi **sampel** (lihat [dokumentasinya](http://stats.stackexchange.com/questions/25956/what-formula-is-used-for-standard-deviation-in-r))
+>Hal yang mungkin perlu diketahui di sini adalah...<br/>Fungsi dari **Numpy di Python** menghitung standar deviasi **populasi** (lihat [dokumentasinya](http://docs.scipy.org/doc/numpy-1.10.0/reference/generated/numpy.std.html))<br/>Fungsi bawaan **R** menghitung standar deviasi **sampel** (lihat di [sini](http://stats.stackexchange.com/questions/25956/what-formula-is-used-for-standard-deviation-in-r))
 
 Itulah mengapa nilai standar deviasi hasil program R dan Python berbeda (lihat saja di postingan saya yang [sebelumnya] (http://mrakelinggar.github.io/python-mengembalikan-lebih-dari-satu-nilai/)).
 
